@@ -21,7 +21,7 @@ void pilihan_menu(){
     cout<<"                                     BIG BUNS BURGER"<<endl;
     cout<<"                            Jln. Raya Uluwatu No. 2 Jimbaran"<<endl;
     cout<<"****************************************************************************************"<<endl;
-    cout<<"|| 1. Spicy Crispy Chicken       Rp 55.000  || 7.  Mineral Water            Rp 5.500  || \n";
+    cout<<"|| 1. Spicy Crispy Chicken       Rp 55.000  || 7.  Mineral Water            Rp 5.000  || \n";
     cout<<"|| 2. Classical Chicken Burger   Rp 53.000  || 8.  Iced Latte               Rp 25.000 || \n";
     cout<<"|| 3. Wagyu Beef Burger          Rp 75.000  || 9.  CocaCola                 Rp 15.000 || \n";
     cout<<"|| 4. Sirloin Beef Burger        Rp 100.000 || 10. Pepsi                    Rp 15.000 || \n";
