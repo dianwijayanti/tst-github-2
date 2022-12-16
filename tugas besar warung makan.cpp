@@ -1,6 +1,6 @@
 //Tubes Algoritma Pemrograman
 //Nama Kelompok : 1. Ni Luh Angelina Andadari    (2205551131)
-//                2. I Made Adiguna Arya Riastha (2205551132)
+//                2. Made Dian Wijayanti         (2205551128)
 #include <iostream>
 using namespace std;
 
